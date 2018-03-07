@@ -1,4 +1,4 @@
-from Vectors import Vector3
+from Vectors import Vector3,Vector2
 from math import sqrt
 
 class Point3:
